@@ -15,3 +15,21 @@
 	- Winforms vs WPF 개요
 	- Winforms 기초
 	
+## 3일차
+- C# 기본
+	- 클래스
+- Win App
+	- WinForms 컨트롤
+	- 리스트뷰, 데이터그리드 추가학습요
+
+3일차 윈폼 학습결과
+
+
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+	
+- Win App
+	- WinForms 컨트롤 마무리
+	- WinForms 예제 실습
