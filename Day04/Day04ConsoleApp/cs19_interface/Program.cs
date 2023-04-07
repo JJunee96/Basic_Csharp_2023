@@ -36,6 +36,41 @@ namespace cs19_interface
             Console.WriteLine("{0} {1}", DateTime.Now.ToLocalTime(), log);
         }
     }
+
+    class Car
+    {
+        public string Name { get; set; }
+        public string color { get; set; }
+
+        public void Stop()
+        {
+            Console.WriteLine("정지!");
+        }
+    }
+
+    interface IHoverable
+    {
+        void Hover();   // 물에서 달린다
+    }
+
+    interface IFlyable
+    {
+        void Fly();     // 날다
+    }
+
+    class FlyHoverCar : Car, IFlyable, IHoverable
+    {
+        public void Fly()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Hover()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
