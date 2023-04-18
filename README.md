@@ -22,7 +22,7 @@
 	- WinForms 컨트롤
 	- 리스트뷰, 데이터그리드 추가학습요
 
-3일차 윈폼 학습결과
+3일차 윈폼 학습결과  
 <img src = "https://raw.githubusercontent.com/JJunee96/Basic_Csharp_2023/main/images/winform01.png" width = "700">
 
 
@@ -45,8 +45,8 @@
 	- WinForms 디자인 오류시 해결방법
 	- Window 탐색기 만들기
 	
-5일차 탐색기 만들기 중
-<img src = "https://raw.githubusercontent.com/JJunee96/Basic_Csharp_2023/main/images/winform03.png" width = "700">
+5일차 탐색기 만들기 중  
+<img src = "https://raw.githubusercontent.com/JJunee96/Basic_Csharp_2023/main/images/winforms03.png" width = "700">
 
 ## 6일차
 - C# 기본
@@ -84,7 +84,7 @@
 		- WinForms MDI
 		- MySQL.Data Lib DB연동
 
-심플 메모장
+심플 메모장  
 <img src = "https://raw.githubusercontent.com/JJunee96/Basic_Csharp_2023/main/images/winform04.png" width = "700">
 
 ## 9일차
@@ -101,5 +101,5 @@
 	
 - 코딩테스트
 
-10일차 책대여점 프로그램
+10일차 책대여점 프로그램  
 <img src = "https://raw.githubusercontent.com/JJunee96/Basic_Csharp_2023/main/images/winforms04.png" width = "700">
