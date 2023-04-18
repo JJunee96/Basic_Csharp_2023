@@ -121,7 +121,7 @@ namespace wf13_bookrentalshop
                     DgvResult.Columns[0].HeaderText = "장르코드";
                     DgvResult.Columns[1].HeaderText = "장르명";
                 }
-                string connectionSTring = "Server=localhost;Port=3306;Database=bookrentalShop;Uid=root;Pwd=12345";
+                string connectionString = "Server=localhost;Port=3306;Database=bookrentalShop;Uid=root;Pwd=12345";
             }
             catch (Exception ex)
             {
